@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Atualmente trabalho na area dá construção civil, como meio oficial eletricista
+- 🔭 Atualmente trabalho na area da construção civil, como meio oficial eletricista
 - 🌱 Estudo Ciência da Computação na faculdade Descomplica e Desenvolvedor Full Stack Python na EBAC
 
 <div align="center">
