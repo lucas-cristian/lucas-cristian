@@ -1,4 +1,4 @@
-## Olá, sejam bem-vindos
+## Olá, seja bem-vindo
 
 
 
