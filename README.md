@@ -2,8 +2,8 @@
 
 
 
-- 🔭 Atualmente trabalho na area da construção civil, como meio oficial eletricista
-- 🌱 Estudo Ciência da Computação na faculdade Descomplica e Desenvolvedor Full Stack Python na EBAC
+- Atualmente estudo o curso desenvolvedor Full Stack Python na EBAC - Escola Britânica de Artes Criativas e Tecnologia
+-  Estudo programação básica de aplicativos Web - Front-end - Pelo IFES no programa " Reprograma-se ".
 
 <div align="center">
   <a href="https://github.com/lucas-cristian">
