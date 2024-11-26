@@ -1,7 +1,7 @@
 ## Olá, seja bem-vindo
 
 
-- Estou cursando curso de Engenharia de Software na unicesuma
+- Estou cursando Engenharia de Software na unicesuma
 - Atualmente estudo o curso desenvolvedor Full Stack Python na EBAC - Escola Britânica de Artes Criativas e Tecnologia
 -  Estudo programação básica de aplicativos Web - Front-end - Pelo IFES no programa " Reprograma-se ".
 
