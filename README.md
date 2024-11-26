@@ -3,7 +3,7 @@
 
 - Estou cursando Engenharia de Software na unicesuma
 - Atualmente estudo o curso desenvolvedor Full Stack Python na EBAC - Escola Britânica de Artes Criativas e Tecnologia
--  Estudo programação básica de aplicativos Web - Front-end - Pelo IFES no programa " Reprograma-se ".
+-  Concluir programação básica de aplicativos Web - Front-end - Pelo IFES no programa " Reprograma-se ".
 
 <div align="center">
   <a href="https://github.com/lucas-cristian">
