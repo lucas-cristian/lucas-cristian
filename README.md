@@ -1,6 +1,6 @@
 ## 👋 Olá, seja bem-vindo ao meu GitHub!
 
-Sou um **Desenvolvedor Full Stack** apaixonado por tecnologia, resolução de problemas e aprendizado contínuo.
+Sou um **Desenvolvedor Full Stack Júnior** apaixonado por tecnologia, resolução de problemas e aprendizado contínuo.
 
 🎓 **Formação Acadêmica:**
 - 📚 Cursando **Análise e Desenvolvimento de Sistemas** pela Universidade Vila Velha
