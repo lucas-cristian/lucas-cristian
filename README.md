@@ -3,7 +3,7 @@
 Sou um **Desenvolvedor Full Stack** apaixonado por tecnologia, resolução de problemas e aprendizado contínuo.
 
 🎓 **Formação Acadêmica:**
-- 📚 Cursando **Engenharia de Software** pela Unicesumar
+- 📚 Cursando **Análise e Desenvolvimento de Sistemas** pela Universidade Vila Velha
 - 🎯 Aluno do curso **Full Stack Python** na [EBAC - Escola Britânica de Artes Criativas e Tecnologia](https://ebaconline.com.br)
 - ✅ Certificado em **Programação Básica de Aplicativos Web - Front-end** pelo **IFES** (Programa Reprograme-se)
 
